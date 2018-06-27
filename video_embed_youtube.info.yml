@@ -1,0 +1,7 @@
+name: Video Embed Youtube
+type: module
+description: 'A video_embed integration with Youtube.'
+package: Video Embed
+core: 8.x
+dependencies:
+  - video_embed
